@@ -4,9 +4,7 @@
 **xiyanghu/xiyanghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am pursuing a [Ph.D. in Information Systems/Machine Learning and Public Policy (TBD)](https://www.ml.cmu.edu/academics/joint-phd-mlpp.html) at [Carnegie Mellon University](https://www.cmu.edu/).
-
-Here are some ideas to get you started:
+I am pursuing a [Ph.D. in Information Systems](https://www.heinz.cmu.edu/programs/phd-programs/information-systems-management)/[Ph.D. in Machine Learning and Public Policy (TBD)](https://www.ml.cmu.edu/academics/joint-phd-mlpp.html) at [Carnegie Mellon University](https://www.cmu.edu/).
 
 **🔭 I’m currently working on** 
 - 1. the design of ML/DL models to improve accuracy/interpretability/fairness.
@@ -15,12 +13,12 @@ Here are some ideas to get you started:
 
 **😄I am open to**
 - Collaboration opportunities
-- (Applied) Research internships for Summer 2021 
+- (Applied) Research Internships for Summer 2021 
 
 **📫 How to reach me**
-- Email (xiyanghu [AT] cmu.edu)
+- Email: xiyanghu [AT] cmu.edu
 - [Twitter](https://twitter.com/hu_xiyang)
-- WeChat(微信)(dawnhxy)
+- WeChat(微信): dawnhxy
 
 **💬 News & Travel**:
 
