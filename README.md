@@ -13,7 +13,6 @@ I am pursuing a [Ph.D. in Information Systems](https://www.heinz.cmu.edu/program
 
 **😄I am open to**
 - Collaboration opportunities
-- (Applied) Research Internships for Summer 2021 
 
 **📫 How to reach me**
 - Email: xiyanghu [AT] cmu.edu
@@ -22,8 +21,7 @@ I am pursuing a [Ph.D. in Information Systems](https://www.heinz.cmu.edu/program
 
 **💬 News & Travel**:
 
-- **Sep 2020**: Our paper [COPOD: Copula-Based Outlier Detection](papers/20-icdm-copod.pdf) (camera-ready version) will appear in [ICDM 2020](http://icdm2020.bigke.org/) soon!
-It is a **fast, parameter-free, and highly interpretable unsupervised outlier detection algorithm** and available in [PyOD](https://github.com/yzhao062/pyod) now.
+- **Feb 2021**: I am going to join AWS AI Lab as a Summer Research Intern! Sad this year it can only be remote. Hope to catch up in person in the bay area after the pandemic!
 
 ----
 
