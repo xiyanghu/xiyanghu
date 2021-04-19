@@ -12,7 +12,8 @@ I am pursuing a [Ph.D. in Information Systems](https://www.heinz.cmu.edu/program
 - 3. the understanding of the social and economic impacts of AI and digital platforms.
 
 **😄I am open to**
-- Collaboration opportunities
+- Collaboration Opportunities
+- 2022 Summer Intership Opportunities
 
 **📫 How to reach me**
 - Email: xiyanghu [AT] cmu.edu
