@@ -11,10 +11,6 @@ I am pursuing a [Ph.D. in Information Systems](https://www.heinz.cmu.edu/program
 - 2. the adaptation of state-of-the-art models in various social and business domains.
 - 3. the understanding of the social and economic impacts of AI and digital platforms.
 
-**😄I am open to**
-- Collaboration Opportunities
-- 2022 Summer Intership Opportunities
-
 **📫 How to reach me**
 - Email: xiyanghu [AT] cmu.edu
 - [Twitter](https://twitter.com/hu_xiyang)
@@ -30,6 +26,11 @@ I am pursuing a [Ph.D. in Information Systems](https://www.heinz.cmu.edu/program
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiyanghu&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+
+**😄I am open to**
+- Collaboration Opportunities
+- 2022 Summer Intership Opportunities
+
 **xiyanghu/xiyanghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
