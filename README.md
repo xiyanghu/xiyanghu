@@ -8,7 +8,7 @@ I am pursuing a [Ph.D. in Information Systems](https://www.heinz.cmu.edu/program
 
 **🔭 I’m currently working on** 
 - 1. the design of ML/DL models to improve accuracy/interpretability.
-- 2. the adaptation of state-of-the-art models in various social and business domains.
+- 2. the adaptation of state-of-the-art models in various social and business applications.
 - 3. the understanding of the social and economic impacts of AI and digital platforms.
 
 **📫 How to reach me**
