@@ -1,6 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=xiyanghu&column=7)](https://github.com/xiyanghu)
-
-[![xiyang's github stats](https://github-readme-stats.vercel.app/api?username=xiyanghu&show_icons=true)](https://github.com/xiyanghu/)
 
 ### Hi there 👋 I'm [Xiyang HU (胡曦阳 in Chinese)!](https://www.andrew.cmu.edu/user/xiyanghu/)
 
