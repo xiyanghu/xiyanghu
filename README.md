@@ -5,7 +5,7 @@
 **xiyanghu/xiyanghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am pursuing a [Ph.D. in Information Systems](https://www.heinz.cmu.edu/programs/phd-programs/information-systems-management)/[Ph.D. in Machine Learning and Public Policy](https://www.ml.cmu.edu/academics/joint-ml-phd.html)(TBD) at [Carnegie Mellon University](https://www.cmu.edu/).
+I am pursuing a Ph.D. in Information Systems at [Carnegie Mellon University](https://www.cmu.edu/).
 
 **🔭 I’m currently working on** 
 - 1. the design of ML/DL models to improve accuracy/efficiency/interpretability.
