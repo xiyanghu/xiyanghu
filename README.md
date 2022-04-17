@@ -23,11 +23,11 @@ I am pursuing a Ph.D. in Information Systems at [Carnegie Mellon University](htt
 
 ----
 
-[![Xiyang's github stats](https://github-readme-stats.vercel.app/api?username=xiyanghu&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiyanghu&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
-
+[![Xiyang's github stats](https://github-readme-stats.vercel.app/api?username=xiyanghu&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiyanghu&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 **😄I am open to**
 - Collaboration Opportunities
 - 2022 Summer Intership Opportunities
