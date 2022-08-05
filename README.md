@@ -8,7 +8,9 @@
 I am pursuing a Ph.D. in Information Systems at [Carnegie Mellon University](https://www.cmu.edu/).
 
 **🔭 I’m currently working on** 
-- 1. the design of ML/DL models to improve accuracy/efficiency/interpretability.
+- 1. the design of ML/DL models to improve accuracy/efficiency/interpretability, specifically:
+  * Deep Learning and Natural Language Processing
+  * Data Mining and Outlier Detection
 - 2. the adaptation of state-of-the-art models in various social and business applications.
 - 3. the understanding of the social and economic impacts of AI and digital platforms.
 
