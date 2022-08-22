@@ -21,7 +21,7 @@ I am pursuing a Ph.D. in Information Systems at [Carnegie Mellon University](htt
 
 **💬 News & Travel**:
 
-- **Feb 2021**: I am going to join AWS AI Lab as a Summer Research Intern! Sad this year it can only be remote. Hope to catch up in person in the bay area after the pandemic!
+- **Jan 2022**:	Excited to release the first comprehensive open-sourced graph outlier detection library – PyGOD.
 
 ----
 
