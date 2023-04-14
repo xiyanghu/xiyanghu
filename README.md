@@ -1,18 +1,18 @@
 
-### Hi there 👋 I'm [Xiyang HU (胡曦阳 in Chinese)!](https://www.andrew.cmu.edu/user/xiyanghu/)
+### Hi there 👋 I'm [Xiyang HU (胡曦阳 in Chinese)!](https://www.andrew.cmu.edu/user/xiyanghu/) *<--Check out my website!*
 
 <!--
 **xiyanghu/xiyanghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am pursuing a Ph.D. in Information Systems at [Carnegie Mellon University](https://www.cmu.edu/).
+I will finish a Ph.D. in Information Systems at [Carnegie Mellon University](https://www.cmu.edu/) very soon. **I am on the 2023-2024 job market!** 
 
 **🔭 I’m currently working on** 
 - 1. the design of ML/DL models to improve accuracy/efficiency/interpretability, specifically:
   * Data Mining and Outlier Detection
   * Machine and Deep Learning
 - 2. the adaptation of state-of-the-art models in various social and business applications.
-- 3. the understanding of the social and economic impacts of AI and digital platforms.
+- 3. the understanding of the social and economic impacts of AI, e.g. fairness, human-AI.
 
 **📫 How to reach me**
 - Email: xiyanghu [AT] cmu.edu
@@ -20,6 +20,8 @@ I am pursuing a Ph.D. in Information Systems at [Carnegie Mellon University](htt
 - WeChat(微信): dawnhxy
 
 **💬 News & Travel**:
+
+- **Mar 2023**:	Our research received AWS AI Amazon Research Award!
 
 - **Jan 2022**:	Excited to release the first comprehensive open-sourced graph outlier detection library – PyGOD.
 
@@ -32,7 +34,7 @@ I am pursuing a Ph.D. in Information Systems at [Carnegie Mellon University](htt
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiyanghu&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 **😄I am open to**
 - Collaboration Opportunities
-- 2022 Summer Intership Opportunities
+- Full time Opportunities starting late 2023 or early 2024
 
 **xiyanghu/xiyanghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
