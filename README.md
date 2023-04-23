@@ -7,7 +7,7 @@
 
 I will finish a Ph.D. in Information Systems at [Carnegie Mellon University](https://www.cmu.edu/) very soon.
 
-* **I am on the 2023-2024 job market!** *
+***I am on the 2023-2024 job market!***
 
 **🔭 I’m currently working on** 
 - 1. the design of ML/DL models to improve accuracy/efficiency/interpretability, specifically:
