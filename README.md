@@ -5,7 +5,9 @@
 **xiyanghu/xiyanghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I will finish a Ph.D. in Information Systems at [Carnegie Mellon University](https://www.cmu.edu/) very soon. <span style="color:blue">**I am on the 2023-2024 job market!** </span>
+I will finish a Ph.D. in Information Systems at [Carnegie Mellon University](https://www.cmu.edu/) very soon.
+
+<span style="color:blue">**I am on the 2023-2024 job market!** </span>
 
 **🔭 I’m currently working on** 
 - 1. the design of ML/DL models to improve accuracy/efficiency/interpretability, specifically:
