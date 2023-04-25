@@ -11,8 +11,8 @@ I will finish my Ph.D. in Information Systems at [Carnegie Mellon University](ht
 
 **🔭 I’m currently working on** 
 - 1. the design of ML/DL models to improve accuracy/efficiency/interpretability, specifically:
-  * Data Mining
   * Machine and Deep Learning
+  * Acceleration
   * NLP
 - 2. the adaptation of state-of-the-art models in various social and business applications.
 - 3. the understanding of the social and economic impacts of AI, e.g. fairness, human-AI.
