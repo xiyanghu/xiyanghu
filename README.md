@@ -15,8 +15,8 @@ I will finish my Ph.D. in Information Systems at [Carnegie Mellon University](ht
   * Acceleration
   * NLP
   * Open-Source *Check out some of our open-source libraries/algorithms:*
-    * [PyGOD](https://github.com/pygod-team/pygod)
-    * [OSDT](https://github.com/xiyanghu/OSDT)
+   - [PyGOD](https://github.com/pygod-team/pygod)
+   - [OSDT](https://github.com/xiyanghu/OSDT)
 - 2. the adaptation of state-of-the-art models in various social and business applications.
 - 3. the understanding of the social and economic impacts of AI, e.g. fairness, human-AI.
 
