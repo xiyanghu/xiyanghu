@@ -12,8 +12,9 @@ I will finish my Ph.D. in Information Systems at [Carnegie Mellon University](ht
 **🔭 I’m currently working on** 
 1. the design of ML/DL models to improve accuracy/efficiency/interpretability, specifically:
   * Machine and Deep Learning
-  * Acceleration
+  * Data Mining
   * NLP
+  * Acceleration
   * Open-Source *Check out some of our open-source libraries/algorithms:*
      - [PyGOD](https://github.com/pygod-team/pygod)
      - [OSDT](https://github.com/xiyanghu/OSDT)
