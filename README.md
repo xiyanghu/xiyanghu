@@ -1,11 +1,11 @@
 
-### Hi there 👋 I'm [Xiyang HU (胡曦阳 in Chinese)!](https://www.andrew.cmu.edu/user/xiyanghu/) *<--Check out my website!*
+### Hi there 👋 I'm [Xiyang HU (胡曦阳 in Chinese)!](https://xiyanghu.github.io/) *<--Check out my website!*
 
 <!--
 **xiyanghu/xiyanghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I will finish my Ph.D. in Information Systems at [Carnegie Mellon University](https://www.cmu.edu/) very soon.
+I got my Ph.D. in Information Systems at [Carnegie Mellon University](https://www.cmu.edu/) very soon.
 
 :sparkles:***I am on the 2023-2024 job market!***:sparkles:
 
