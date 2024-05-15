@@ -7,7 +7,6 @@
 
 I got my Ph.D. in Information Systems at [Carnegie Mellon University](https://www.cmu.edu/) very soon.
 
-:sparkles:***I am on the 2023-2024 job market!***:sparkles:
 
 **🔭 I’m currently working on** 
 1. the design of ML/DL models to improve accuracy/efficiency/interpretability, specifically:
@@ -37,6 +36,8 @@ I got my Ph.D. in Information Systems at [Carnegie Mellon University](https://ww
 
 
 <!--
+:sparkles:***I am on the 2023-2024 job market!***:sparkles:
+
 [![Xiyang's github stats](https://github-readme-stats.vercel.app/api?username=xiyanghu&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiyanghu&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 **😄I am open to**
