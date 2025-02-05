@@ -25,11 +25,7 @@ I got my Ph.D. in Information Systems at [Carnegie Mellon University](https://ww
 - [Twitter](https://twitter.com/hu_xiyang)
 - WeChat(微信): dawnhxy
 
-**💬 News & Travel**:
 
-- **Mar 2023**:	Our research received AWS AI Amazon Research Award!
-
-- **Jan 2022**:	Excited to release the first comprehensive open-sourced graph outlier detection library – PyGOD.
 
 ----
 
@@ -56,6 +52,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+**💬 News & Travel**:
+
+- **xxx 2023**:	xxxxxxxxxxxx
 
 I am the author/core developer of various machine learning tools and systems with more than millions of downloads. 
 -->
